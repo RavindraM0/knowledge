@@ -1,0 +1,7 @@
+﻿Server:  UnKnown
+Address:  10.247.187.249
+
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
