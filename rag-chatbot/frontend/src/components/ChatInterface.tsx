@@ -31,10 +31,11 @@ export default function ChatInterface({
     setIsLoading(true);
 
     try {
+      const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000';
       // Send the full history (excluding the initial greeting) for context
       const historyForApi = newMessages.slice(1); // skip the first greeting message
 
-      const response = await fetch('http://localhost:5000/api/chat', {
+      const response = await fetch(`${apiUrl}/api/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
