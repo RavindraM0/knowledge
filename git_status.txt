@@ -1,0 +1,32 @@
+﻿ M rag-chatbot/backend/.env
+ M rag-chatbot/backend/node_modules/.package-lock.json
+ M rag-chatbot/backend/package-lock.json
+ M rag-chatbot/backend/package.json
+ M rag-chatbot/backend/src/controllers/uploadController.js
+ M rag-chatbot/backend/src/server.js
+ M rag-chatbot/frontend/src/app/page.tsx
+?? git_status.txt
+?? rag-chatbot/README.md
+?? rag-chatbot/backend/db_error.log
+?? rag-chatbot/backend/error.json
+?? rag-chatbot/backend/models.json
+?? rag-chatbot/backend/node_modules/.bin/uuid
+?? rag-chatbot/backend/node_modules/.bin/uuid.cmd
+?? rag-chatbot/backend/node_modules/.bin/uuid.ps1
+?? rag-chatbot/backend/node_modules/@google/
+?? rag-chatbot/backend/node_modules/uuid/
+?? rag-chatbot/backend/server_output.txt
+?? rag-chatbot/backend/src/controllers/chatController.js
+?? rag-chatbot/backend/src/models/
+?? rag-chatbot/backend/src/routes/chat.js
+?? rag-chatbot/backend/src/routes/history.js
+?? rag-chatbot/backend/src/utils/embeddings.js
+?? rag-chatbot/backend/test-db-log.js
+?? rag-chatbot/backend/test-db.js
+?? rag-chatbot/backend/test-gemini-json.js
+?? rag-chatbot/backend/test-gemini-output.txt
+?? rag-chatbot/backend/test-gemini.js
+?? rag-chatbot/backend/test-models.js
+?? rag-chatbot/backend/test-pdf.js
+?? rag-chatbot/frontend/frontend_output.txt
+?? rag-chatbot/frontend/src/components/
